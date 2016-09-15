@@ -1,8 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>main.qml</file>
-        <file>NameRecommendationButton.qml</file>
-        <file>NameRecommendationButtonGroup.qml</file>
-        <file>TestWorkerScript.js</file>
-    </qresource>
-</RCC>
